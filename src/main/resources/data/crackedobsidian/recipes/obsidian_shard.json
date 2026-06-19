@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "item": "crackedobsidian:obsidian_shard",
+    "count": 9
+  }
+}

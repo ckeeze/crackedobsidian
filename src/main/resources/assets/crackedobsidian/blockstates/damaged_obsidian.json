@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "damage=0": {
+      "model": "crackedobsidian:block/damaged_obsidian0"
+    },
+    "damage=1": {
+      "model": "crackedobsidian:block/damaged_obsidian1"
+    },
+    "damage=2": {
+      "model": "crackedobsidian:block/damaged_obsidian2"
+    },
+    "damage=3": {
+      "model": "crackedobsidian:block/damaged_obsidian3"
+    },
+    "damage=4": {
+      "model": "crackedobsidian:block/damaged_obsidian4"
+    },
+    "damage=5": {
+      "model": "crackedobsidian:block/damaged_obsidian5"
+    },
+    "damage=6": {
+      "model": "crackedobsidian:block/damaged_obsidian6"
+    },
+    "damage=7": {
+      "model": "crackedobsidian:block/damaged_obsidian8"
+    },
+    "damage=8": {
+      "model": "crackedobsidian:block/damaged_obsidian9"
+    },
+    "damage=9": {
+      "model": "crackedobsidian:block/damaged_obsidian10"
+    }
+  }
+}

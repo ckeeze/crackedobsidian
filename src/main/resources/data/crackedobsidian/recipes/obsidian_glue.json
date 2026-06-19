@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "CAC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "crackedobsidian:obsidian_shard"
+    },
+    "A": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "crackedobsidian:obsidian_glue",
+    "count": 4
+  }
+}
