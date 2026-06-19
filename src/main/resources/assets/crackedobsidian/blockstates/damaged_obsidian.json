@@ -22,13 +22,13 @@
       "model": "crackedobsidian:block/damaged_obsidian6"
     },
     "damage=7": {
-      "model": "crackedobsidian:block/damaged_obsidian8"
+      "model": "crackedobsidian:block/damaged_obsidian7"
     },
     "damage=8": {
-      "model": "crackedobsidian:block/damaged_obsidian9"
+      "model": "crackedobsidian:block/damaged_obsidian8"
     },
     "damage=9": {
-      "model": "crackedobsidian:block/damaged_obsidian10"
+      "model": "crackedobsidian:block/damaged_obsidian9"
     }
   }
 }
