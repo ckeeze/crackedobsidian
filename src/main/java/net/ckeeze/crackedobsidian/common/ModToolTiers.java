@@ -14,6 +14,6 @@ import java.util.List;
 
 public class ModToolTiers {
     public static final Tier STONEAGEOBSIDIAN = TierSortingRegistry.registerTier(
-            new ForgeTier(1, 16, 4.0F, 5.5F, 15, BlockTags.NEEDS_STONE_TOOL, () -> Ingredient.of(Tags.Items.OBSIDIAN)),
+            new ForgeTier(1, 16, 4.0F, 5.0F, 15, BlockTags.NEEDS_STONE_TOOL, () -> Ingredient.of(Tags.Items.OBSIDIAN)),
             new ResourceLocation(CrackedObsidian.MODID, "macuahuitl"), List.of(Tiers.STONE), List.of(Tiers.IRON));
 }
