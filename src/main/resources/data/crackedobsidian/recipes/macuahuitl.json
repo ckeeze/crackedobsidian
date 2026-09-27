@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OPO",
+    "OPO",
+    " I "
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "O": {
+      "item": "crackedobsidian:obsidian_shard"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "crackedobsidian:macuahuitl"
+  }
+}

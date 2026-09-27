@@ -21,6 +21,7 @@ public class ModCreativeTab {
                         output.accept(Registers.OBSIDIAN_GLUE.get());
                         output.accept(Registers.OBSIDIAN_SHARD.get());
                         output.accept(Registers.DAMAGED_OBSIDIAN.get().asItem());
+                        output.accept(Registers.MACUAHUITL.get());
                     }).build());
 
     public static void register(IEventBus eventBus) {
